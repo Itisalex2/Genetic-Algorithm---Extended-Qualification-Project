@@ -1,7 +1,9 @@
 Introduction
+
 Computer science is one of the most rapidly growing fields in modern history. Being my subject of interest, I decided to create an artefact that uses computer programming. The  program was completed after researching and coding over the course of four months. It consists of two sections - an interface which allows the user to input a level, and a genetic algorithm that beats that level. In this essay I’ll talk about the research I did, the important skills I learnt and how my project could improve in the future.
 
 Research
+
 	The idea that prevailed in my initial brainstorm was to code a game and a program that could beat that game. There were a few possible options that I could model my game after, but ultimately it was based off of “World’s Hardest Game” (Snubby, 2008) after some research and testing. I chose this game because I played it before and had a good understanding of how its mechanics worked. The objective of the game is to navigate a square around obstacles and enemies in order to travel from a start point to its corresponding end point.
 (Code bullet, 2018, 07:53)
 
