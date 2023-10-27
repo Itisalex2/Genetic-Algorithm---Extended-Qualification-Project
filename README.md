@@ -4,7 +4,7 @@ Computer science is one of the most rapidly growing fields in modern history. Be
 
 Research
 
-	The idea that prevailed in my initial brainstorm was to code a game and a program that could beat that game. There were a few possible options that I could model my game after, but ultimately it was based off of “World’s Hardest Game” (Snubby, 2008) after some research and testing. I chose this game because I played it before and had a good understanding of how its mechanics worked. The objective of the game is to navigate a square around obstacles and enemies in order to travel from a start point to its corresponding end point.
+The idea that prevailed in my initial brainstorm was to code a game and a program that could beat that game. There were a few possible options that I could model my game after, but ultimately it was based off of “World’s Hardest Game” (Snubby, 2008) after some research and testing. I chose this game because I played it before and had a good understanding of how its mechanics worked. The objective of the game is to navigate a square around obstacles and enemies in order to travel from a start point to its corresponding end point.
 (Code bullet, 2018, 07:53)
 
 List of resources:
@@ -29,7 +29,7 @@ Objectives before research:
 Make a game where a user can input their own level
 Make an algorithm that can beat that level
 
-	My initial EPQ title was “make a code that can beat any level the user suggests”. I wasn’t quite sure of exactly what my code would encompass, but vaguely, my aim was for it to include some sort of game and an algorithm that allows the computer to find a suitable way to beat a level.
+My initial EPQ title was “make a code that can beat any level the user suggests”. I wasn’t quite sure of exactly what my code would encompass, but vaguely, my aim was for it to include some sort of game and an algorithm that allows the computer to find a suitable way to beat a level.
 
 Using my Christmas break, I finished all of my planned research. There was a substantial amount of information for the book so I filled a document with notes (see appendix J, page 49) so that I could look back at it more easily. The two methods of beating a game that I looked at were neural networks + game search trees(more mathematical) and genetic algorithms(more simple and visual). After reading the article about neural networks (Dutta, 2020), I realised that neural networks were not the type of approach I was looking for as it emphasised the learning aspect of the genetic algorithm (this is explained in more detail in the reflection section). Similarly, game search trees (Hong, Huang, & Lin, 2002) and graphical weighting (Kordsmeier, 2015) were unnecessary. The videos on the topics of programming a game (Keith Galli, 2018) (Keith Galli, 2020) and genetic algorithms (Shiffman, 2016) (Kie Codes, 2020a) (Kie Codes, 2020b) persuaded me that genetic algorithms were the best way to approach this project and that it was possible within my time frame.
 
