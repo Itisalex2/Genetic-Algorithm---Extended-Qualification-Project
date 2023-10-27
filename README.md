@@ -5,8 +5,6 @@ Research
 	The idea that prevailed in my initial brainstorm was to code a game and a program that could beat that game. There were a few possible options that I could model my game after, but ultimately it was based off of “World’s Hardest Game” (Snubby, 2008) after some research and testing. I chose this game because I played it before and had a good understanding of how its mechanics worked. The objective of the game is to navigate a square around obstacles and enemies in order to travel from a start point to its corresponding end point.
 (Code bullet, 2018, 07:53)
 
-Coding a convoluted program requires a decent level of programming proficiency. I decided to take part in a world-wide programming competition, USA Computing Olympiad, in order to give myself some practice. After over a week of studying I was able to learn the key concepts and get promoted up a division (I practiced Python, a simple programming language that I had prior experience in). Furthering on, I wanted to research the process of creating games and building an algorithm that could beat a game. Initially, videos were my only resources, but after discussing with my supervisor I also looked into books, websites and articles. At this point in time I had little to no idea of what my algorithm would be (this is addressed in the next page), but I browsed the web and came up with the following resources:
-
 List of resources:
 Books:
 Introduction to Evolutionary Computing (Eiben & Smith, 2016)
